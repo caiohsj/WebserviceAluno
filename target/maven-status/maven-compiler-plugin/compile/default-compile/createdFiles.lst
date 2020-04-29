@@ -1,0 +1,5 @@
+br\edu\ifms\webservicealuno\dao\AlunoDAO.class
+br\edu\ifms\webservicealuno\WebserviceAluno.class
+br\edu\ifms\webservicealuno\dao\FabricaDeGerenciadorDeEntidades.class
+br\edu\ifms\webservicealuno\model\Aluno.class
+br\edu\ifms\webservicealuno\Main.class
